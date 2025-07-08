@@ -2,6 +2,8 @@
 
 This project involves designing and building a 3D model of a robotic arm with five degrees of freedom (5 DOF), using the Tinkercad platform. The purpose of this design is to simulate the functionality of a robotic manipulator commonly used in industrial automation, capable of flexible movement and directional control.
 
+https://github.com/itsabalkhail/3D-Design-5-DOF-Robotic/blob/main/Screenshot%202025-07-08%20213602.png?raw=true
+
 ## ✨ Features
 
 - Fully designed in 3D using Tinkercad with a clean and organized structure.
